@@ -1,0 +1,10 @@
+﻿  classes.cpp
+D:\VS\lab5c++\classes.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS\lab5c++\classes.cpp(74,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS\lab5c++\classes.cpp(88,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VS\lab5c++\classes.cpp(92,22): warning C4018: <: несоответствие типов со знаком и без знака
+  lab5c++.cpp
+D:\VS\lab5c++\classes.h(43,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VS\lab5c++\lab5c++.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print<RationalNum>(std::vector<RationalNum,std::allocator<RationalNum>>)"
+  Создание кода...
+  lab5c++.vcxproj -> D:\VS\lab5c++\Debug\lab5c++.exe
