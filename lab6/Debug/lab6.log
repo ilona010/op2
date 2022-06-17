@@ -1,0 +1,5 @@
+﻿  Tree.cpp
+D:\VS\lab6\Tree.cpp(14,22): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6.cpp
+  Создание кода...
+  lab6.vcxproj -> D:\VS\lab6\Debug\lab6.exe
